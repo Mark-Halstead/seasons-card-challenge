@@ -1,29 +1,5 @@
 
-.card1 {
-    display: inline-block;
-    width: 200px; /* Set the width of the card */
-    height: 300px; /* Set the height of the card */
-    border: 1px solid black; /* Add a border to the card */
-    margin: 10px; /* Add some margin around the card */
-}
-
-.card2 {
-    display: inline-block;
-    width: 200px; /* Set the width of the card */
-    height: 300px; /* Set the height of the card */
-    border: 1px solid black; /* Add a border to the card */
-    margin: 10px; /* Add some margin around the card */
-}
-
-.card3 {
-    display: inline-block;
-    width: 200px; /* Set the width of the card */
-    height: 300px; /* Set the height of the card */
-    border: 1px solid black; /* Add a border to the card */
-    margin: 10px; /* Add some margin around the card */
-}
-
-.card4 {
+.card {
     display: inline-block;
     width: 200px; /* Set the width of the card */
     height: 300px; /* Set the height of the card */
